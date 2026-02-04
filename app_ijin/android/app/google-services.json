@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "374258698014",
+    "project_id": "app-ijin",
+    "storage_bucket": "app-ijin.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:374258698014:android:01c2f4325b178b22182b0f",
+        "android_client_info": {
+          "package_name": "com.example.app_ijin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpEHwsZaZR_jUYhTZ_whDRYqqb3ZSp3i4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
